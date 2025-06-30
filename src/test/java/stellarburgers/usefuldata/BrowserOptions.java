@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeOptions;
 public class BrowserOptions {
 
     // Константа для выбора браузера
-    public static final BrowserName BROWSER_NAME = BrowserName.YANDEX;
+    public static final BrowserName BROWSER_NAME = BrowserName.CHROME;
 
     // Enum для типов браузеров
     public enum BrowserName {
